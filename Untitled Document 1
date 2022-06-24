@@ -1,0 +1,10 @@
+1.	Add register Button beside login
+2.	Adjust unusual space in search bar section.
+3.	Register: remove unwanted fields like ACRA statement, State, Country during registration. User can complete it in dashboard profile section. But these will be optional only.
+4.	Hide company’s name in result page
+5.	Change Meta Title of the company’s page like about, terms etc. (Recommended to keep it as it is. It is looking good as per our survey.)
+6.	Need mobile verification: Confirm with client
+7.	Add relevant icons to all modules in dashboards
+8.	Add award and reject button in award section.
+9.	Move all tender related items under “My Tender” with sub options.
+10.	Move My profile section from side bar to right top drop down.
